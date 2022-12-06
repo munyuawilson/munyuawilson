@@ -29,6 +29,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=munyuawilson&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&hide=TeX&layout=compact)
+![GitHub Stats](https://github.com//munyua/munyuawilson/blob/output/github-contribution-grid-snake.svg)
 
 **Socials**
 
