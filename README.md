@@ -1,6 +1,8 @@
- Hi, I’m @munyuawilson, a Software Developer. I’m interested in data science, machine learning, AI and web development. I’m currently learning web development. I’m looking to collaborate on data science projects.
+**Wilson Munyua**
 
-                                                                **Technologies**
+Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. I’m currently learning web development. I’m looking to collaborate on data science projects.
+ 
+  **Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
