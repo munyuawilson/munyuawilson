@@ -36,7 +36,7 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=munyuawilson)
 
 
 **Socials**
