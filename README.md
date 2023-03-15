@@ -44,9 +44,11 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 [![Linkedin Badge](https://img.shields.io/badge/-Wilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
 
 [![Gmail Badge](https://img.shields.io/badge/-wmunyua4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wmunyua4@gmail.com)](mailto:wmunyua4@gmail.com)
-<a href="http://www.github.com/rikiraspoutine"><img src="https://activity-graph.herokuapp.com/graph?username=rikiraspoutine&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/rikiraspoutine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikiraspoutine&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/rikiraspoutine"><img src="https://activity-graph.herokuapp.com/graph?username=munyuawilson&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/rikiraspoutine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
