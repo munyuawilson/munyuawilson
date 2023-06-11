@@ -33,29 +33,18 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
   ## Technologies
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=munyuawilson&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&theme=github_dark&layout=compact&hide_border=true" /></a>
+  <br>
   
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=portfolio-template&theme=github_dark)](https://github.com/kevinfengcs88/portfolio-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
- 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
 
@@ -63,11 +52,7 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 
 
-**Socials**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
-
-[![Gmail Badge](https://img.shields.io/badge/-wmunyua4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wmunyua4@gmail.com)](mailto:wmunyua4@gmail.com)
 
 
 
