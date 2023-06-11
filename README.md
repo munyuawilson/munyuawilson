@@ -1,6 +1,14 @@
 **Wilson Munyua**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. I’m currently learning web development. I’m looking to collaborate on data science projects.
 
-Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. I’m currently learning web development. I’m looking to collaborate on data science projects.
+
+ 
+
+[![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://munyuawilson.netlify.app/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+
 
 ## Languages and Tools:
 <div>
