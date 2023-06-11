@@ -21,7 +21,8 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 <br>
  
-  **Technologies**
+  ##Technologies
+  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=munyuawilson&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&theme=github_dark&layout=compact&hide_border=true" /></a>
   
 
