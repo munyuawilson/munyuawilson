@@ -36,14 +36,10 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
   <br>
   
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=portfolio-template&theme=github_dark)](https://github.com/kevinfengcs88/portfolio-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=plagiarism_detector&theme=github_dark)](https://github.com/munyuawilson/plagiarism_detector.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=jumiaTvs&theme=github_dark)](https://github.com/munyuawilson/jumiaTvs.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=Ransomware&theme=github_dark)](https://github.com/munyuawilson/Ransomware.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=Socket-Chat-App&theme=github_dark)](https://github.com/munyuawilson/Socket-Chat-App.git)
 
 
 
