@@ -8,7 +8,7 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 [![Website](https://img.shields.io/badge/munyuawilson.netlify.app-grey?style=for-the-badge&url=https%3A%2F%2Fmunyuawilson.netlify.app)](https://munyuawilson.netlify.app/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
 
 
 ## Languages and Tools:
