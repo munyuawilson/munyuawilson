@@ -46,12 +46,10 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&layout=compact&langs_count=16&theme=dracula"/>
     <br><br>
     <hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=munyuawilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
-![Snake animation.](https://github.com/munyuawilson/munyuawilson/blob/output/github-contribution-grid-snake.svg)
 
-<!-- ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=munyuawilson&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats) -->
 
 
