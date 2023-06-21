@@ -30,13 +30,6 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 <br>
  
-  
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=plagiarism_detector&theme=github_dark)](https://github.com/munyuawilson/plagiarism_detector.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=jumiaTvs&theme=github_dark)](https://github.com/munyuawilson/jumiaTvs.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=Ransomware&theme=github_dark)](https://github.com/munyuawilson/Ransomware.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=Socket-Chat-App&theme=github_dark)](https://github.com/munyuawilson/Socket-Chat-App.git)
-
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
