@@ -39,10 +39,6 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=munyuawilson&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=2EF7FA)](https://git.io/streak-stats) -->
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
 
 
