@@ -22,7 +22,7 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 </div>
 
 <br>
-## GitHub Stats:
+## **GitHub Stats:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&hide_progress=true)
 
