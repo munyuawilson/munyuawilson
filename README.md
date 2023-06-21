@@ -29,11 +29,13 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 </div>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
  
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Munyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyuawilson&show_icons=true&theme=radical)
 
 
 
