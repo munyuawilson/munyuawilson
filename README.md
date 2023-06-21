@@ -30,16 +30,6 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 
 <br>
  
-  ## Technologies
-  
- <div>
-  <a href="https://github.com/munyuawilson">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&layout=compact&langs_count=16&theme=dracula"/>
-    <br><br>
-    <hr>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=munyuawilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-  <br>
   
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=munyuawilson&repo=plagiarism_detector&theme=github_dark)](https://github.com/munyuawilson/plagiarism_detector.git)
