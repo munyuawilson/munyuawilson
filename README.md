@@ -4,13 +4,6 @@
 Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. I’m currently learning web development. I’m looking to collaborate on data science projects.
 
 
- 
-
-[![Website](https://img.shields.io/badge/munyuawilson.netlify.app-grey?style=for-the-badge&url=https%3A%2F%2Fmunyuawilson.netlify.app)](https://munyuawilson.netlify.app/)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
-
-
 ## Languages and Tools:
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
@@ -33,6 +26,10 @@ Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data sc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munyuawilson&hide_progress=true)
 
 ![Munyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyuawilson&show_icons=true&theme=radical)
+
+[![Website](https://img.shields.io/badge/munyuawilson.netlify.app-grey?style=for-the-badge&url=https%3A%2F%2Fmunyuawilson.netlify.app)](https://munyuawilson.netlify.app/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
  
 
 
