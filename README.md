@@ -1,6 +1,8 @@
 
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m **@munyuawilson**, a Software Developer. 
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+
+Hi, I’m **@munyuawilson**, a Software Developer. 
 
 I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. 
 
