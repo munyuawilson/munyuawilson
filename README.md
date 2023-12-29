@@ -1,6 +1,10 @@
 
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m **@munyuawilson**, a Software Developer. I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. I’m currently learning web development. I’m looking to collaborate on data science projects.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m **@munyuawilson**, a Software Developer. 
+
+I’m interested in **Data science**, **Machine learning**, **AI** and **Web development**. 
+
+I’m currently learning web development. I’m looking to collaborate on data science projects.
 
 
 ## Languages and Tools:
