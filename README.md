@@ -40,7 +40,7 @@ I’m currently learning web development. I’m looking to collaborate on data s
 
 ![Munyua's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyuawilson&show_icons=true&theme=radical)
 
-[![Website](https://img.shields.io/badge/munyuawilson.netlify.app-grey?style=for-the-badge&url=https%3A%2F%2Fmunyuawilson.netlify.app)](https://munyuawilson.netlify.app/)
+[![Website](https://img.shields.io/badge/munyuawilson.netlify.app-grey?style=for-the-badge&url=https%3A%2F%2Fmunyuawilson.netlify.app)](https://munyua.vercel.app/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/wilson-munyua-4a0417204/)](https://www.linkedin.com/in/wilson-munyua-4a0417204/)
  
